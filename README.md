@@ -1,4 +1,4 @@
-# Teste técnico para a posição de Engenheiro de Dados na plataforma [Cognitivo.ia](https://www.cognitivo.ai/)
+# Teste técnico para a posição de Engenheiro de Dados na plataforma [Cognitivo.ai](https://www.cognitivo.ai/)
 
 ## Organização dos dados
 
